@@ -1,2 +1,3 @@
 commit init
 commit another
+commit amend #2
